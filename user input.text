@@ -1,7 +1,0 @@
-name = "hridoy"
-age = 23
-cgpa = 3.25
-print(" my new friends name " +name)
-print (name + " lives in canada ")
-print (name + " is ",age, " years old ")
-print (name + " has scored" ,cgpa, "him final exam")
