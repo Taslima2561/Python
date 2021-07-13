@@ -1,0 +1,3 @@
+cars = ["jik","mew","gew","jiku"]
+for x in cars:
+    print(x)
