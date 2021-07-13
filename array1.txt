@@ -1,0 +1,3 @@
+cars= ["ford","vivo","jupi"]
+x = cars[0]
+print(x)
