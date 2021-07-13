@@ -1,0 +1,3 @@
+cars = ["jiku","tori"]
+cars.append("munnii")
+print(cars)
